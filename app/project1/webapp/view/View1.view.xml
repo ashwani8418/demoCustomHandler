@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <Button text="Deepanshu"></Button>
           <Button text="shruti"></Button>
-          <Button text="Ashwani"></Button>
+          <Button text="Ashwani sharma"></Button>
            <Button text="dumb"></Button>
     </Page>
 </mvc:View>
