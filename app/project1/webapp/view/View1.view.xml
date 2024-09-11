@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
         <Button text="Deepanshu"></Button>
           <Button text="shruti"></Button>
+          <Button text="Ashwani"></Button>
     </Page>
 </mvc:View>
